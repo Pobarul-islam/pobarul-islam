@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Pobarul islam
+# Hi there 👋, I'm Pobarul islam
 #### MERN Stack Web Developer
-![MERN Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGntUR6SQbnmg/profile-displaybackgroundimage-shrink_350_1400/0/1655733057665?e=1661990400&v=beta&t=LgCjEIFg9zLKroFk_pE0ltLFCAChXKRYvRPw5QwQsFk)
+![MERN Stack Web Developer](https://pbs.twimg.com/profile_banners/1482968818591100929/1655733197/1500x500)
 
  I have completed Front end web development course in programming hero and also self-improvement some skills like React, Node, Express, MongoDB, etc.
 
@@ -27,10 +27,6 @@ Skills: HTML/CSS/JAVASCRIPT/REACT/NODE.JS/MONGODB/EXPRESS/FIREBASE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pobarul-islam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pobarul-islam&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pobarul-islam)  
-
-![GitHub metrics](https://metrics.lecoq.io/Pobarul-islam)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pobarul-islam)  
 
