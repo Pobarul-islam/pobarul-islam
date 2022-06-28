@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pobarul islam
 #### MERN Stack Web Developer
-![MERN Stack Web Developer](https://pbs.twimg.com/profile_banners/1482968818591100929/1655733197/600x200)
+![MERN Stack Web Developer](https://pbs.twimg.com/profile_banners/1482968818591100929/1655733197/1500x500)
 
 I have completed Front end web development course in programming hero and also self-improvement some skills like React, Node, Express, MongoDB, etc.
 
@@ -18,7 +18,7 @@ Skills: HTML/CSS/JAVASCRIPT/REACT/NODE.JS/MONGODB/EXPRESS/FIREBASE
 - 📫 How to reach me: How to reach me: Email or Social Platform. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pobarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md Pobarul islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pobarul3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pobarul10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Md Pobarul islam)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pobarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-pobarul-islam-04bb2b1b8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pobarul3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pobarul10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17342976)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pobarul-islam)](https://github.com/anuraghazra/github-readme-stats)
 
