@@ -12,7 +12,7 @@ My long-term goal is to become a more responsible and knowledgeable personality 
 
 Skills: HTML/CSS/JAVASCRIPT/REACT/NODE.JS/MONGODB/EXPRESS/FIREBASE
 
-- 🔭 I’m currently Looking for a job 
+- 🔭 I’m currently Looking for a job/intern 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: Email or Social Platform. 
