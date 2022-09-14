@@ -10,7 +10,7 @@ My short-term goal is to get a job or intern in a reputed company where I can gr
 
 My long-term goal is to become a more responsible and knowledgeable personality and achieve a good position in the organization.
 
-Skills: HTML/CSS/JAVASCRIPT/REACT/NODE.JS/MONGODB/EXPRESS/FIREBASE
+Skills: HTML/CSS/JAVASCRIPT/TAILWIND CSS/ BOOTSTRAP/ REACT/ REACT ROUTER/ DOM/ TYPESCRIPT/ NODEJS/ EXPRESS AND MONGODB
 
 - 🔭 I’m currently Looking for a job/intern 
 - 🌱 I’m currently learning Redux 
