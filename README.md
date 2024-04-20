@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pobarul islam
 #### MERN Stack Web Developer
-![MERN Stack Web Developer](https://pbs.twimg.com/profile_banners/1482968818591100929/1660882823/1500x500)
+
 
 Hi, I am a Frontend developer my self-improvement some skills like React, Node, Express, MongoDB, etc.
 
