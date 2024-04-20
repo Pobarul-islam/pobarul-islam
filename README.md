@@ -18,7 +18,6 @@ Skills: HTML/CSS/JAVASCRIPT/TAILWIND CSS/ BOOTSTRAP/ REACT/ REACT ROUTER/ DOM/ T
 - 📫 How to reach me: Email or Social Platform. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pobarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-pobarul-islam-04bb2b1b8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pobarul3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pobarul10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17342976)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pobarul-islam&show_icons=true)  
